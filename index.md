@@ -75,8 +75,8 @@
 	},
 	{
 		"id":2,
-		"title": "护墙",
-		"en": "WALL",
+		"title": "背景墙",
+		"en": "BACKGROUND",
 		"img": "/img/7207.jpg",
 		"list":[
 			{"id":1,
@@ -149,8 +149,8 @@
 	},
 	{
 		"id":3,
-		"title": "护墙",
-		"en": "WALL",
+		"title": "定制挂画",
+		"en": "PATING",
 		"img": "/img/7208.jpg",
 		"list":[
 			{"id":1,
@@ -223,8 +223,8 @@
 	},
 	{
 		"id":4,
-		"title": "护墙",
-		"en": "WALL",
+		"title": "儿童房",
+		"en": "CHILD",
 		"img": "/img/7209.jpg",
 		"list":[
 			{"id":1,
@@ -297,8 +297,8 @@
 	},
 	{
 		"id":5,
-		"title": "护墙",
-		"en": "WALL",
+		"title": "全屋定制",
+		"en": "CUSTOMES",
 		"img": "/img/7210.jpg",
 		"list":[
 			{"id":1,
@@ -371,8 +371,8 @@
 	},
 	{
 		"id":6,
-		"title": "护墙",
-		"en": "WALL",
+		"title": "电器",
+		"en": "ELECTRIC",
 		"img": "/img/7211.jpg",
 		"list":[
 			{"id":1,
