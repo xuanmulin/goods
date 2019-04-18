@@ -39,10 +39,7 @@
 				"https://img.alicdn.com/imgextra/i2/2408198557/TB2VvCipbZnBKNjSZFrXXaRLFXa_!!2408198557.jpg",
 				"https://img.alicdn.com/imgextra/i2/2408198557/TB2hLT2o8nTBKNjSZPfXXbf1XXa_!!2408198557.jpg",
 				"https://img.alicdn.com/imgextra/i2/2408198557/TB2fReHpnmWBKNjSZFBXXXxUFXa_!!2408198557.jpg",
-				"https://img.alicdn.com/imgextra/i1/2408198557/TB2aE6so0knBKNjSZKPXXX6OFXa_!!2408198557.jpg",
-				"https://img.alicdn.com/imgextra/i3/2408198557/TB2QXh8pbZnBKNjSZFGXXbt3FXa_!!2408198557.jpg",
-				"https://img.alicdn.com/tfs/TB1.CUdsY9YBuNjy0FgXXcxcXXa-1572-394.png",
-				""
+				"https://img.alicdn.com/imgextra/i1/2408198557/TB2aE6so0knBKNjSZKPXXX6OFXa_!!2408198557.jpg"
 			]
 			},
 			{"id":2,
